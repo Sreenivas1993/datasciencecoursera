@@ -1,7 +1,7 @@
 CodeBook
 
 
-Subject-ID of subject
+Subject-ID of subject<br/>
 Activities-Activity taken by subject
 
 .......Measurements....................<br/>

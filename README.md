@@ -1,2 +1,2 @@
 # datasciencecoursera
-Works for data Science course in Coursera
+Data Science Course Specialisation in Coursera by John Hopkins University

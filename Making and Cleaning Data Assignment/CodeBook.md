@@ -10,12 +10,12 @@ tBodyAccMeanX<br/>
 tBodyAccMeanY<br/>
 tBodyAccMeanZ<br/>
 tBodyAccStdX<br/>
-tBodyAccSt<br/>dY<br/>
-tBodyAccStdZ<br<br/>/>
-tGravityAccMeanX<br/<br/>>
-tGravityAccMeanY<br/><br/>
-tGravityAccMeanZ<br/><br/>
-tGravityAccStdX<br/><br/>
+tBodyAccSt<br/>
+tBodyAccStdZ<br/>
+tGravityAccMeanX<br/>
+tGravityAccMeanY<br/>
+tGravityAccMeanZ<br/>
+tGravityAccStdX<br/>
 tGravityAccStdY<br/>
 tGravityAccStdZ<br/>
 tBodyAccJerkMeanX<br/>
@@ -57,11 +57,11 @@ fBodyAccMeanFreqY<br/>
 fBodyAccMeanFreqZ<br/>
 fBodyAccJerkMeanX<br/>
 fBodyAccJerkMeanY<br/>
-fBodyAccJerkMeanZ
-fBodyAccJerkStdX
-fBodyAccJerkStdY
-fBodyAccJerkStdZ
-fBodyAccJerkMeanFre<br/>qX
+fBodyAccJerkMeanZ</br>
+fBodyAccJerkStdX</br>
+fBodyAccJerkStdY</br>
+fBodyAccJerkStdZ</br>
+fBodyAccJerkMeanFre<br/>
 fBodyAccJerkMeanFreqY<br/>
 fBodyAccJerkMeanFreqZ<br/>
 fBodyGyroMeanX<br/>
@@ -87,7 +87,7 @@ fBodyBodyGyroJerkMagStd<br/>
 fBodyBodyGyroJerkMagMeanFreq<br/>
 
 
-..............Activity Labels.....................
+..............Activity Labels.....................<br/>
 WALKING (value 1): subject was walking during the test<br/>
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test<br/>
 WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test<br/>

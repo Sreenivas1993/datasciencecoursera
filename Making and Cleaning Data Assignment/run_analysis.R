@@ -52,4 +52,4 @@ totaldat<-cbind(x_data,y_data,subject_data)
 ###avg_data<-totaldat[,lapply(.SD,mean),by=.(Activities,Subject)]###
 
 averages_data <- ddply(totaldat, .(Subject,Activities), function(x) colMeans(x[, 1:66]))
-write.table(averages_data,"tidydata.txt",row.names = FALSE,quote = FALSE)
+write.table(averages_data,"tidydata.txt",row.names = FALSE,quote = FALSE,sep ='\t' )
